@@ -1,4 +1,3 @@
-# normalize_B
 This is a python script for normalizing B factors in a PDB file. 
 
 What is it doing?
