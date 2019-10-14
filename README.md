@@ -12,10 +12,11 @@ Usage
 python normalize_B.py <PREFIX.pdb> <radius>
 ```
 
-**PREFIX.pdb** 
-Your query pdb file
-**radius** 
-The radius (in Angstrom) that is used for searching atoms that are used for the B factor normalization
+**PREFIX.pdb**
+This is your query pdb file.
+
+**radius**
+This is the radius (in Angstrom) used for searching atoms within each query atom that can be used for the B factor normalization.
 
 Dependencies
 ============
